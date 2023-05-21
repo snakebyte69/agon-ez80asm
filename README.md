@@ -168,4 +168,4 @@ Example macro usage / expansion later in the code:
 ## Platform targets and building from source
 While AgonLight is the primary target platform, in order to have easy access to the regular cadre of Unix tools in developing and testing, a small MOS abstraction layer is provided that takes care of abstracting the MOS file API calls to Unix file API calls. This layer also takes care of the differences in file handling and file structures between both platforms.
 
-The builds here all use assume GCC which can easily be installed under Windows using chocolatey - Snake
+The builds here all use assume GCC which can easily be installed under Windows using Chocolatey - Snake
