@@ -3,7 +3,7 @@
 
 #ifndef WINDOWS
 #ifndef UNIX
-#define AGON
+//#define AGON
 #endif // UNIX
 #endif // WINDOWS
 #ifdef _MSC_VER
